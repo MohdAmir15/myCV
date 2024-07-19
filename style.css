@@ -1,0 +1,81 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.container{
+    margin-top: 10px;
+}
+.myPic{
+    padding: 20px;
+}
+img{
+    border: 5px solid orange;
+    height: 300px;
+    width: 300px;
+}
+span.name{
+    color: orange;
+}
+p{
+    text-align: justify;
+}
+h2{
+    color: orange;
+    border: 5px solid orange;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+ul.info{
+    list-style-type: none;
+    text-align: justify;
+    margin-left: 100px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    padding: 10px;
+}
+i{
+    margin-right: 20px;
+}
+.address_lines{
+    margin-left: 35px;
+}
+li.language_list{
+    text-align: justify;
+    padding: 8px;
+    margin-left: 170px;
+}
+div.pro_exp{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+ul.pro_exp{
+    list-style-type: lower-roman;
+}
+li.pro_exp{
+    text-align: justify;
+    padding: 8px;
+    margin-left: 30px;
+}
+div.edu{
+    margin-top: 10px;
+}
+ul.skill{
+    list-style-type: none;
+    text-align: left;
+}
+.progress {
+    width: 75%;
+}
+.table_skill{
+    margin: 40px;
+}
+th{
+    padding: 10px;
+}
+td{
+    width: 100%;
+    padding-left: 100px;
+}
